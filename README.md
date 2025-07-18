@@ -5,16 +5,27 @@
 ## Features
 
 - Authentication using tokens
+  <img width="726" height="615" alt="image" src="https://github.com/user-attachments/assets/62cf1402-243a-4825-9d5e-87df9047d9f7" />
+
 
 - Booking an appointment
-  <img width="1407" height="926" alt="image" src="https://github.com/user-attachments/assets/a04c0495-6103-4034-a63b-6b2227130b4d" />
+
+<img width="1085" height="907" alt="image" src="https://github.com/user-attachments/assets/f7dfbd58-ecd8-4136-b30d-f39d0373a2a8" />
 
 
 - Viewing appointment history
 
+  <img width="1191" height="660" alt="image" src="https://github.com/user-attachments/assets/686ed724-5563-4558-b4e7-7198d8602ae1" />
+
+
 - Editing an appointment
+  
+  <img width="444" height="824" alt="image" src="https://github.com/user-attachments/assets/3f2e7abc-5e4b-487d-b037-cf0609565d90" />
+
 
 - Canceling an appointment
+  <img width="365" height="278" alt="image" src="https://github.com/user-attachments/assets/2f6517af-8d07-4c4e-8c3e-f378946c9a45" />
+
 
 - Client-side and server-side validation
 
