@@ -9,31 +9,31 @@
   <img width="726" height="615" alt="image" src="https://github.com/user-attachments/assets/62cf1402-243a-4825-9d5e-87df9047d9f7" />
 
 
-- Booking an appointment
+- ### Booking an appointment
 
 <img width="1085" height="907" alt="image" src="https://github.com/user-attachments/assets/f7dfbd58-ecd8-4136-b30d-f39d0373a2a8" />
 
 
-- Viewing appointment history
+- ### Viewing appointment history
 
   <img width="1191" height="660" alt="image" src="https://github.com/user-attachments/assets/686ed724-5563-4558-b4e7-7198d8602ae1" />
 
 
-- Editing an appointment
+- ### Editing an appointment
   
   <img width="444" height="824" alt="image" src="https://github.com/user-attachments/assets/3f2e7abc-5e4b-487d-b037-cf0609565d90" />
 
 
-- Canceling an appointment
+- ### Canceling an appointment
   
   <img width="365" height="278" alt="image" src="https://github.com/user-attachments/assets/2f6517af-8d07-4c4e-8c3e-f378946c9a45" />
 
 
-- Client-side and server-side validation
+- ### Client-side and server-side validation
 
-- REST API architecture
+- ### REST API architecture
 
-- Password hashing
+- ### Password hashing
 
 
 
