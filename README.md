@@ -49,6 +49,19 @@ Software versions used to develop the application (the app has not been tested f
 - React ^19.1.0
 - MongoDB v8.0.10
 
+# Installation
+## 1. Clone the Repository
+	git clone https://github.com/jagfoljersolen/dog-salon-mern-app.git
+	cd dog-salon-mern-app
+## 2. Set Up Environment Variables
+### Copy the example file to .env:
+	cp .env.example .env
+ ### Open .env with a text editor and fill in your actual values (e.g., database connection string, JWT secret, etc.).
+ 	DB=mongodb://localhost/your_database
+	JWTPRIVATEKEY=your_jwt_secret
+	SALT=12
+ ### Do not commit your .env file to version control—it should remain private.
+ 
 ## Running the Application
 ## 1. In the backend (server) root directory, run:
 	npm install
