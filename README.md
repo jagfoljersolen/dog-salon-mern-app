@@ -5,6 +5,7 @@
 ## Features
 
 - Authentication using tokens
+  
   <img width="726" height="615" alt="image" src="https://github.com/user-attachments/assets/62cf1402-243a-4825-9d5e-87df9047d9f7" />
 
 
@@ -24,6 +25,7 @@
 
 
 - Canceling an appointment
+  
   <img width="365" height="278" alt="image" src="https://github.com/user-attachments/assets/2f6517af-8d07-4c4e-8c3e-f378946c9a45" />
 
 
