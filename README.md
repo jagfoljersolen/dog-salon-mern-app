@@ -4,7 +4,7 @@
 
 ## Features
 
-- *Authentication using tokens*
+- ### Authentication using tokens
   
   <img width="726" height="615" alt="image" src="https://github.com/user-attachments/assets/62cf1402-243a-4825-9d5e-87df9047d9f7" />
 
