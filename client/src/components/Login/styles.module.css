@@ -1,0 +1,109 @@
+.login_container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #e9d8fd 0%, #b794f4 100%);
+}
+
+.card {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px rgba(117, 84, 191, 0.13);
+  padding: 40px 32px 24px 32px;
+  width: 100%;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.form_container {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+
+.input {
+  padding: 12px 16px;
+  border: 1.5px solid #d6bcfa;
+  border-radius: 7px;
+  font-size: 1rem;
+  background: #faf5ff;
+  color: #5a189a;
+  transition: border 0.2s;
+}
+
+.input:focus {
+  border-color: #b794f4;
+  outline: none;
+}
+
+.green_btn {
+  background: linear-gradient(90deg, #b794f4 0%, #9f7aea 100%);
+  color: #fff;
+  border: none;
+  border-radius: 7px;
+  padding: 12px 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+  box-shadow: 0 2px 8px rgba(183, 148, 244, 0.15);
+}
+
+.green_btn:hover {
+  background: linear-gradient(90deg, #9f7aea 0%, #b794f4 100%);
+}
+
+.signup_prompt {
+  margin-top: 32px;
+  padding-top: 18px;
+  border-top: 1px solid #e9d8fd;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.signup_prompt span {
+  font-size: 1.05rem;
+  color: #6d28d9;
+  margin-bottom: 2px;
+}
+
+.white_btn {
+  background: #fff;
+  color: #9f7aea;
+  border: 2px solid #b794f4;
+  border-radius: 7px;
+  padding: 10px 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  width: 140px;
+  transition: background 0.2s, color 0.2s;
+  box-shadow: 0 1px 4px rgba(183, 148, 244, 0.10);
+}
+
+.white_btn:hover {
+  background: #b794f4;
+  color: #fff;
+}
+
+.error_msg {
+  color: #d53f8c;
+  background: #fff5f7;
+  border: 1px solid #fbb6ce;
+  border-radius: 6px;
+  padding: 10px 16px;
+  font-size: 0.97rem;
+  text-align: center;
+}
+
+@media (max-width: 500px) {
+  .card {
+    padding: 24px 10px 16px 10px;
+    max-width: 98vw;
+  }
+}
