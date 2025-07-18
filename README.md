@@ -7,6 +7,8 @@
 - Authentication using tokens
 
 - Booking an appointment
+  <img width="1407" height="926" alt="image" src="https://github.com/user-attachments/assets/a04c0495-6103-4034-a63b-6b2227130b4d" />
+
 
 - Viewing appointment history
 
