@@ -11,7 +11,11 @@ connection()
 
 //middleware
 app.use(express.json())
-app.use(cors())
+
+let corsOptions = {
+    origin: 'http://localhost:3000',
+    }
+app.use(cors(corsOptions))
 
 app.use('/api/auth', authRoutes)
 app.use('/api/users', userRoutes)
